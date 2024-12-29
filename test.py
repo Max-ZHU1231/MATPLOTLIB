@@ -11,3 +11,4 @@ header_row = next(reader)
 
 print(header_row.index('TMAX'))
 print(f"another{0}")
+print("hi")
